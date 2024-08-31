@@ -4,7 +4,7 @@
 
 Welcome to the **Data Structure Notes** repository! This repo contains all the notes and resources related to various data structures, their implementation, and applications.
 
-## Table of Contents
+## Table of Contents inside the pdf
 
 - [Introduction](#introduction)
 - [Array](#array)
@@ -22,15 +22,7 @@ Welcome to the **Data Structure Notes** repository! This repo contains all the n
 ## Introduction
 
 Data structures are fundamental concepts in computer science that allow us to organize and manage data efficiently. This repository covers essential data structures with detailed explanations and code snippets.
-
-## Array
-
-### Description
-- A collection of elements stored at contiguous memory locations.
-
-### Applications
-- Used in searching and sorting algorithms.
-
+
  
 
 
